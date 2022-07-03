@@ -1,0 +1,6 @@
+*.exe
+*.ttc
+*.ttf
+*.rc
+*.res
+/.vscode
